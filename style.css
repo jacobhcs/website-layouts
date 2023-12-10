@@ -31,6 +31,7 @@ ul {
 
 li {
   cursor: pointer;
+  padding: 5px 0px;
 }
 
 .donate-button {
